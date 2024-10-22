@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountApi", "DiscountApi.csproj", "{8B7BD42A-9BB9-4211-A8A5-85533F2EEA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7BD42A-9BB9-4211-A8A5-85533F2EEA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7BD42A-9BB9-4211-A8A5-85533F2EEA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7BD42A-9BB9-4211-A8A5-85533F2EEA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7BD42A-9BB9-4211-A8A5-85533F2EEA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092DE284-6E3A-432E-AC4E-F4F13717875F}
+	EndGlobalSection
+EndGlobal
